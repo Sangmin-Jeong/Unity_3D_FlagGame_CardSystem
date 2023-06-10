@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa496b4ed807ee548ba8b35d18913d90, type: 3}
+  m_Name: Unit C4RR0T
+  m_EditorClassIdentifier: 
+  abilityName: Silence
+  cardName: Unit C4RR0T
+  cost: 3
+  className: Snow Bunny
+  fogRange: 0
+  CPrefab: {fileID: 2561767811331237356, guid: e8afc08999f17ac45bbf9473570f032a, type: 3}
+  cardType: 0
+  unitType: 1
+  abilityType: 3
+  abilityType2: 2
+  atk: 1
+  defense: 4
+  range: 4
+  movement: 1
+  isTakeDamage: 0

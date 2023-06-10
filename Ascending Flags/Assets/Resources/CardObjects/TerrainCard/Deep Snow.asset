@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ff696a9bc0e9e54f8154bb8581e22bc, type: 3}
+  m_Name: Deep Snow
+  m_EditorClassIdentifier: 
+  abilityName: 
+  cardName: Deep Snow
+  description: Grants 2 tile vision in any direction
+  cost: 2
+  className: Deep Snow
+  fogRange: 2
+  CPrefab: {fileID: 2240105949160924794, guid: 667c5125325b37649ae600958329ccb0, type: 3}
+  cardType: 1
+  terrianType: 1

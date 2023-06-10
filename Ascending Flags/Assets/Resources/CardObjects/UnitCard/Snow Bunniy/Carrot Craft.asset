@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa496b4ed807ee548ba8b35d18913d90, type: 3}
+  m_Name: Carrot Craft
+  m_EditorClassIdentifier: 
+  abilityName: Handy
+  cardName: Carrot Craft
+  cost: 2
+  className: Snow Bunny
+  fogRange: 0
+  CPrefab: {fileID: 6799090427819609002, guid: 59a3129e5522ffd49a519475ac4e47cf, type: 3}
+  cardType: 0
+  unitType: 3
+  abilityType: 1
+  abilityType2: 2
+  atk: 2
+  defense: 3
+  range: 1
+  movement: 3
+  isTakeDamage: 0
